@@ -12,3 +12,6 @@ It has the following commands
 `yarn build`
 
 `yarn preview`
+
+### Design 
+[Mockup Figma](https://www.figma.com/file/sNl4DBY4vKw8YrtilHD1T5/weather-app?node-id=0%3A1)
